@@ -2,7 +2,7 @@ backports.weakref==1.0rc1
 bleach==1.5.0
 certifi==2020.4.5.1
 future==0.18.2
-html5lib==0.9999999
+html5lib==0.999999999
 importlib-metadata==1.6.0
 Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
 numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1588605080954/work
